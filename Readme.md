@@ -49,4 +49,5 @@ Le menu du haut comprend:
 
 Comme le disait notre cher petit être à lunette qui préférait avoir les balles de ping pong sur la table que dans le visage lorsqu'il y jouait bien qu'heureusement je ne l'ai jamais vu sur ou sous la table mais il a quand même glissé en se faisant mal au poignet ce con, à propos de ce site: *C'est pas compliqué mais c'est pas simple*.
 
-mon petit email <anthony_sl@msn.com)>
+mon petit email 
+<anthony_sl@msn.com>
