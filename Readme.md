@@ -4,8 +4,6 @@
 *Actuellement, il est protégé par un login et un mot de passe (n'ayant pas de certificat). Veuillez me demander si vous souhaitez y accéder.*
 
 
-> Un indice en regardant les Veilles, peut-être?
-
 ##  Introduction à la Cybersécurité
 
 La cybersécurité est la pratique de protéger les systèmes, réseaux et programmes contre les attaques numériques. Ces cyberattaques sont généralement destinées à accéder, modifier ou détruire des informations sensibles, extorquer de l'argent aux utilisateurs ou interrompre les processus commerciaux normaux.
